@@ -1,4 +1,4 @@
-# jessica_freebase_knowledge_graph
+# Knowledge Graph Compare
 
 ![statistics](WeChat%20Screenshot_20201225090259.png)
 
