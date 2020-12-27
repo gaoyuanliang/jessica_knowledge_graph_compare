@@ -6,3 +6,8 @@
 
 https://ad.informatik.uni-freiburg.de/demos/
 
+# wikidata
+
+altLabel
+name
+label
