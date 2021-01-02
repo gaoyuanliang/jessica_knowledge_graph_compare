@@ -12,6 +12,10 @@ altLabel
 name
 label
 
-# Open Event Knowledge Graph (OEKG)
+## Open Event Knowledge Graph (OEKG)
 
 http://cleopatra-project.eu/index.php/open-event-knowledge-graph/
+
+## gdeltproject
+
+https://www.gdeltproject.org/
