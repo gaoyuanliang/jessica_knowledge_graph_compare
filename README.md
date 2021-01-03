@@ -19,3 +19,7 @@ http://cleopatra-project.eu/index.php/open-event-knowledge-graph/
 ## gdeltproject
 
 https://www.gdeltproject.org/
+
+## ai dataset 
+
+https://blog.gdeltproject.org/a-look-at-gdelts-open-ai-datasets-video-imagery-speech-and-natural-language-understanding/
